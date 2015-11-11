@@ -1,1 +1,1 @@
-info lezione python
+info lezione python introduction
